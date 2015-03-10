@@ -1,0 +1,7 @@
+zlib-1.2.3.tar.gz is a raw upstream tarball containing its own license.
+zlib-1.2.8.tar.gz is a raw upstream tarball containing its own license.
+All other files in this directory are copyrighted by Google.
+Files in testdata/ subdirectory are copyrighted by Google.
+Files in v1_2_3/ subdiretory are licensed per v1_2_3/LICENSE.
+Files in v1_2_7/ subdiretory are licensed per v1_2_7/LICENSE.
+Files in v1_2_8/ subdiretory are licensed per v1_2_8/LICENSE.
